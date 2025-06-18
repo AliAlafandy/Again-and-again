@@ -3,6 +3,14 @@ package backend;
 import flixel.FlxState;
 import backend.PsychCamera;
 
+#if mobile
+import mobile.MobileControls;
+import mobile.flixel.FlxVirtualPad;
+import flixel.FlxCamera;
+import flixel.input.actions.FlxActionInput;
+import flixel.util.FlxDestroyUtil;
+#end
+
 class MusicBeatState extends FlxState
 {
 	private var curSection:Int = 0;
