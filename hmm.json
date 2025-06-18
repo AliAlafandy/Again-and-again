@@ -76,8 +76,8 @@
       "name": "flxanimate",
       "type": "git",
       "dir": null,
-      "ref": "main-mobile",
-      "url": "https://github.com/MaysLastPlays-Stuff/flxanimate"
+      "ref": "main",
+      "url": "https://github.com/ShadowMario/flxanimate"
     },
     {
       "name": "SScript",
