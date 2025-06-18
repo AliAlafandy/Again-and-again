@@ -6,9 +6,6 @@ import flixel.input.gamepad.mappings.FlxGamepadMapping;
 import flixel.input.keyboard.FlxKey;
 
 #if mobile
-import mobile.flixel.input.FlxMobileInputID;
-import mobile.flixel.input.FlxMobileInputManager;
-
 import mobile.flixel.FlxButton;
 import mobile.flixel.FlxHitbox;
 import mobile.flixel.FlxVirtualPad;
